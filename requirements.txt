@@ -1,4 +1,7 @@
 aioredis==2.0.1
+fastapi==0.101.1
+uvicorn==0.23.2
+requests==2.32.3
 annotated-types==0.7.0
 anyio==4.9.0
 appnope==0.1.4
